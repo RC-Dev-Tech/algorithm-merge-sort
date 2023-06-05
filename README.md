@@ -38,13 +38,13 @@
 ---
 
 ## 示意圖:
-<img src="https://drive.google.com/uc?id=1Q5yz2iQopRu0F9Nr_ow7c3vjoqwIqfmc" height="100%" width="100%"/>
+<img src="https://drive.google.com/uc?id=1Q5yz2iQopRu0F9Nr_ow7c3vjoqwIqfmc" height="70%" width="70%"/>
 > 圖片來源：[iThome鐵人賽(Frank) - 演算法 合併排序法 Merge Sort](https://ithelp.ithome.com.tw/articles/10278179) 
 
 ---
 
 ## 實作範例:
-- [Example](https://github.com/RC-Dev-Tech/algorithm-basic-quick-sort/blob/main/C%2B%2B/main.cpp) - Basic Quick Sort (C++)
+- [Example](https://github.com/RC-Dev-Tech/algorithm-merge-sort/blob/main/C%2B%2B/main.cpp) - Merge Sort (C++)
 
 ---
 
