@@ -50,7 +50,7 @@
 ---
 
 ## 參考資料
-* [Wiki - Merge Sort][(https://zh.wikipedia.org/wiki/%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F) <br>
+* [Wiki - Merge Sort](https://zh.wikipedia.org/wiki/%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F) <br>
 * [iThome鐵人賽(Frank) - 演算法 合併排序法 Merge Sort](https://ithelp.ithome.com.tw/articles/10278179) <br>
 
 ---
