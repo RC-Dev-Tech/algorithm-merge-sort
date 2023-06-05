@@ -38,8 +38,7 @@
 ---
 
 ## 示意圖:
-<img src="https://drive.google.com/uc?id=13U92TtpZl_x1GFvh-QNMNjW1sujSNHb5" height="100%" width="100%"/>
-
+<img src="https://drive.google.com/uc?id=1Q5yz2iQopRu0F9Nr_ow7c3vjoqwIqfmc" height="100%" width="100%"/>
 > 圖片來源：[iThome鐵人賽(Frank) - 演算法 合併排序法 Merge Sort](https://ithelp.ithome.com.tw/articles/10278179) 
 
 ---
